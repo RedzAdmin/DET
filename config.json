@@ -1,0 +1,25 @@
+{
+  "BOT_TOKEN": "8110692904:AAFHnlFdOdEfC9h_KQMFpolLP5Zebw-A-cQ",
+  "OWNER_ID": 7711882574,
+  "ADMIN_IDS": [7711882574],
+  "CHANNEL": "@codexemp",
+  "GROUP": "@darkempirechatroom",
+  "SUPPORT": "@darkempdev",
+  "MAX_FILE_SIZE": 52428800,
+  "RATE_LIMIT": 5,
+  "PREMIUM_PRICE": "$10/month",
+  "BOT_NAME": "DARK EMPIRE TECH",
+  "BOT_USERNAME": "darkempiretechbot",
+  "ENCRYPTION": {
+    "DEFAULT_ALGORITHM": "AES-256-CBC",
+    "DEFAULT_PASSWORD": "darkempire2024",
+    "ALLOW_CUSTOM_PASSWORD": true,
+    "ALLOWED_ALGORITHMS": ["AES", "DES", "3DES", "XOR", "Base64", "Hex", "ROT13", "ROT47", "Caesar"]
+  },
+  "SECURITY": {
+    "REQUIRE_CHANNEL_JOIN": true,
+    "ANTI_SPAM": true,
+    "MAX_REQUESTS_PER_MINUTE": 10,
+    "BLOCK_BOTS": true
+  }
+}
