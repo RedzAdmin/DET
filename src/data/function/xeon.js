@@ -1,0 +1,3 @@
+{
+	"name": "ALASTOR XMD"
+}
